@@ -2,18 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>iqupt</title>
-    <link>https://localhost/sites/iqupt/</link>
-    <description></description>
-    <copyright>Copyright (C) 2026 https://localhost/sites/iqupt</copyright>
+    <link>https://localhost:3000/sites/iqupt/</link>
+    <description>own course</description>
+    <copyright>Copyright (C) 2026 https://localhost:3000/sites/iqupt</copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 18:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:43:47 GMT</lastBuildDate>
     <generator>HAXcms NodeJS</generator>
-    <atom:link href="https://localhost/sites/iqupt/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://localhost:3000/sites/iqupt/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome to iqupt</title>
-      <link>https://localhost/sites/iqupt/welcome</link>
-      <description>Welcome to your new HAX site! Click edit on the top bar to get started What can I do? We&apos;ve got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a little video exploring some of them! Here&apos;s a list of just a few things to get started, or if your a pro, delete this content and have fun! Edit this content by hitting &quot;Edit page&quot; above Hit enter in a paragraph of text to add another one Click &quot;Merlin&quot; to see a list of all the things you can do Tr...</description>
-      <guid>https://localhost/sites/iqupt/welcome</guid>
+      <link>https://localhost:3000/sites/iqupt/welcome</link>
+      <description>A playful corner of the wed to learn this tool using content from more sources Disrupting Ineffective Structures When existing systems fail the people who depend on them, the most effective response is rarely to advocate louder within those systems. It&amp;#8217;s time to prototype and demonstrate something different. That might mean repurposing underutilized resources, deploying open-source technology to replace the system that excludes entire populations, or convening stakeholders across sector...</description>
+      <guid>https://localhost:3000/sites/iqupt/welcome</guid>
       <pubDate>Wed, 13 May 2026 18:43:43 GMT</pubDate>
     </item>
   </channel>

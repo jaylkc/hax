@@ -1,22 +1,10 @@
-Welcome to your new HAX site! Click edit on the top bar to get started
+A playful corner of the wed to learn this tool using content from more sources
 
-What can I do?
---------------
+### Disrupting Ineffective Structures
 
-We've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a little video exploring some of them!
+When existing systems fail the people who depend on them, the most effective response is rarely to advocate louder within those systems. It’s time to prototype and demonstrate something different. That might mean repurposing underutilized resources, deploying open-source technology to replace the system that excludes entire populations, or convening stakeholders across sectors who had intentionally been kept in different rooms.
 
-Here's a list of just a few things to get started, or if your a pro, delete this content and have fun!
-
-<grid-plate layout="1-1" responsive-size="xs" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" disable-responsive=""><ol slot="col-1"><li>Edit this content by hitting "Edit page" above</li><li>Hit enter in a paragraph of text to add another one</li><li>Click "Merlin" to see a list of all the things you can do</li><li>Try to add a video, or edit this one</li><li>Insert a video</li></ol><video-player source="https://www.youtube.com/watch?v=zmext_0e4xQ" slot="col-2"></video-player></grid-plate>
-
-This looks fun, let's go!
--------------------------
-
-Get involved with HAX
----------------------
-
-We hope you enjoy working with HAX as much as the team has enjoyed building it! If you want to join our community, hit "Merlin" and look for the Discord link among other ways to get involved!
-
-*   [Read our HAX Teaching excellence resources](https://haxtheweb.org/)
-*   [Join the HAX community](https://bit.ly/hax-discord)
-*   [Post an issue in our issue queue](https://github.com/elmsln/issues/issues/new?assignees=&labels=POP&template=issue-report.md&title=User%20report%20from%20HAX%20welcome%20page)
+1.  Identify which structures are genuinely inflexible and which only appear that way
+2.  Prototype alternatives in partnership with the people most affected
+3.  Measure what changes, refine what doesn't, and document both rigorously
+4.  Scale what works with the relationships and the evidence to sustain progress
