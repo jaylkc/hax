@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iqupt</title>
+  <link href="https://localhost:3000/sites/iqupt/" rel="self" />
+  <subtitle>own course</subtitle>
+  <updated>2026-05-13T19:28:03.000Z</updated>
+  <author>
+      <name></name>
+  </author>
+  <id>https://localhost:3000/sites/iqupt/</id>
+  
+  <entry>
+    <title>Welcome to iqupt</title>
+    <id>item-ebaafb20-e0ff-4c42-91e0-05e3229fc70d</id>
+    <updated>2026-05-13T19:30:25.000Z</updated>
+    <published>2026-05-13T18:43:43.000Z</published>
+    <summary>A playful corner of the wed to learn this tool using content from more sources
+Disrupting Ineffective Structures
+When existing systems fail the people who depend on them, the most effective response </summary>
+    <link href="https://localhost:3000/sites/iqupt/welcome"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p>A playful corner of the web to learn this tool using content from more sources</p>
+<h3 id="h3-1483610385">Disrupting Ineffective Structures</h3>
+<p>When existing systems fail the people who depend on them, the most effective response is rarely to advocate louder within those systems. It&#8217;s time to prototype and demonstrate something different. That might mean repurposing underutilized resources, deploying open-source technology to replace the system that excludes entire populations, or convening stakeholders across sectors who had intentionally been kept in different rooms.</p>
+<ol><li>Identify which structures are genuinely inflexible and which only appear that way</li><li>Prototype alternatives in partnership with the people most affected</li><li>Measure what changes, refine what doesn't, and document both rigorously</li><li>Scale what works with the relationships and the evidence to sustain progress</li></ol>
+<ul>
+</ul>
+ ]]>
+    </content>
+  </entry>
+</feed>
