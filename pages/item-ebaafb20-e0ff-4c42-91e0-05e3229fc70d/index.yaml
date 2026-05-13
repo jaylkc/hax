@@ -14,7 +14,7 @@ description: >-
   response 
 metadata:
   created: 1778697823
-  updated: 1778700483
+  updated: 1778700625
   published: true
   hideInMenu: false
   locked: false
@@ -23,10 +23,10 @@ metadata:
   images: []
 content: >
 
-  <p>A playful corner of the wed to learn this tool using content from more
+  <p>A playful corner of the web to learn this tool using content from more
   sources</p>
 
-  <h3>Disrupting Ineffective Structures</h3>
+  <h3 id="h3-1483610385">Disrupting Ineffective Structures</h3>
 
   <p>When existing systems fail the people who depend on them, the most
   effective response is rarely to advocate louder within those systems.

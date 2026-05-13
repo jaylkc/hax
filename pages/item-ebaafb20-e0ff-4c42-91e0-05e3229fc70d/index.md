@@ -1,4 +1,4 @@
-A playful corner of the wed to learn this tool using content from more sources
+A playful corner of the web to learn this tool using content from more sources
 
 ### Disrupting Ineffective Structures
 
