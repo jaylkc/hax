@@ -2,25 +2,55 @@
   "id": "a09b9098-3dcc-4677-8cac-19b73fe2366c",
   "title": "iqupt",
   "author": "",
-  "description": "",
+  "description": "own course",
   "license": "by-sa",
   "metadata": {
     "author": {},
     "site": {
+      "name": "iqupt",
+      "logo": "assets/banner.jpg",
       "settings": {
-        "lang": "en",
+        "lang": "en-US",
+        "publishPagesOn": true,
         "canonical": true
       },
-      "name": "iqupt",
-      "domain": null,
-      "created": 1778697823,
-      "updated": 1778697823
+      "created": 1778697827,
+      "updated": 1778697827,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
     },
     "theme": {
-      "variables": {}
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean Two",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-two-thumb.jpg",
+      "description": "Start with a blank site using the Clean Two",
+      "category": [
+        "Course"
+      ],
+      "hidden": false,
+      "priority": 0,
+      "terrible": false,
+      "variables": {
+        "icon": "icons:record-voice-over",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
     },
     "node": {
       "fields": {}
+    },
+    "platform": {
+      "audience": "expert",
+      "features": {},
+      "allowedBlocks": []
+    },
+    "build": {
+      "version": "26.0.0",
+      "structure": "course",
+      "type": "own"
     }
   },
   "items": [
