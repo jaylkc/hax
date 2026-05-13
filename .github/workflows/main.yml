@@ -8,8 +8,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
         with:
-          persist-credentials: false
+          node-version: '24'
 
       - name: Install and Build
         run: |
@@ -21,3 +24,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           folder: ./
+          clean: false
