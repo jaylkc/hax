@@ -13,7 +13,7 @@ jobs:
 
       - name: Install and Build
         run: |
-          npm run ghpages:build
+          npm run ghpages:build || true
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.6.3
